@@ -2,6 +2,8 @@
 DIY CNC Fusion 360 CAM posts processor
 ====
 
+[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
+
 This is modified fork of https://github.com/martindb/mpcnc_posts_processor
 
 CAM posts processor for use with Fusion 360 and [MPCNC](https://www.v1engineering.com/assembly/) with RAMPS or any 3-axis DIY CNC.
