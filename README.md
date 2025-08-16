@@ -2,7 +2,7 @@
 DIY CNC Fusion 360 CAM posts processor
 ====
 
-[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
+[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
 This is modified fork of https://github.com/martindb/mpcnc_posts_processor
 
